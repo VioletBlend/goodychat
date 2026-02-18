@@ -1,6 +1,21 @@
-# Goody Chat（AI chat bot）
+# 🚀 Goodychat （Local）
 
 <br>
+
+<br>
+
+① リポジトリをクローン
+
+```bash
+git clone https://github.com/VioletBlend/goodychat.git
+cd goodychat
+```
+
+② 必要なライブラリをインストール
+
+```bash
+pip install -r requirements.txt
+```
 
 （実行方法）
 
